@@ -1,17 +1,14 @@
-import { Outlet } from 'react-router-dom';
-import { Suspense } from 'react';
+import { Suspense } from "react";
+import { Outlet } from "react-router-dom";
 
 
 export const Layout = () => {
 
-    return(
-        <>
-        <Suspense>
-            <main>
-                <Outlet/>
-                
-            </main>
-        </Suspense>
-        </>
-    )
-}
+  return (
+    <Suspense fallback={<div>Loading...</div>}>
+      
+     
+      <Outlet />
+    </Suspense>
+  );
+};
