@@ -1,13 +1,25 @@
 {
   "files": {
     "main.css": "/chat-app/static/css/main.738097fa.css",
-    "main.js": "/chat-app/static/js/main.00525e49.js",
+    "main.js": "/chat-app/static/js/main.874cbeec.js",
     "index.html": "/chat-app/index.html",
+    "static/media/Moreicon.svg": "/chat-app/static/media/Moreicon.372821b0a31be3f04553d86239b9c83c.svg",
+    "static/media/IconPhone.svg": "/chat-app/static/media/IconPhone.b397e569fe5e545773c1835f459db23c.svg",
+    "static/media/SearchBaricon.svg": "/chat-app/static/media/SearchBaricon.c2d1796e9ff8df78d9dd7faa5a3f529e.svg",
+    "static/media/UserEdit.svg": "/chat-app/static/media/UserEdit.c32a96c397e6144f62306c3a6b80f190.svg",
+    "static/media/EmojiIcon.svg": "/chat-app/static/media/EmojiIcon.9a32076fa4f213018593f900f770676f.svg",
+    "static/media/MicrophoneIcon.svg": "/chat-app/static/media/MicrophoneIcon.db113d0489e91657130b9b304fa0fac7.svg",
+    "static/media/ImageIcon.svg": "/chat-app/static/media/ImageIcon.3a57a56d35e337846fd11222c0e33141.svg",
+    "static/media/Iconcamera.svg": "/chat-app/static/media/Iconcamera.0ed3f5f8610f95c7ea5895c4bd63b67b.svg",
+    "static/media/PlusIcon.svg": "/chat-app/static/media/PlusIcon.e903b0ad9f19de6712eda7a86a42ed2c.svg",
+    "static/media/IconInfo.svg": "/chat-app/static/media/IconInfo.3ba0a6028ddefa1770a546c473a460b6.svg",
+    "static/media/MinusIcons.svg": "/chat-app/static/media/MinusIcons.5a32f9bd025997d7d9dee2aa3a6e3844.svg",
+    "static/media/SendIcon.svg": "/chat-app/static/media/SendIcon.e5b45b5220433627ea9c93aa4eaa1527.svg",
     "main.738097fa.css.map": "/chat-app/static/css/main.738097fa.css.map",
-    "main.00525e49.js.map": "/chat-app/static/js/main.00525e49.js.map"
+    "main.874cbeec.js.map": "/chat-app/static/js/main.874cbeec.js.map"
   },
   "entrypoints": [
     "static/css/main.738097fa.css",
-    "static/js/main.00525e49.js"
+    "static/js/main.874cbeec.js"
   ]
 }
